@@ -4,7 +4,7 @@ In this project, we created a linear regression model to predict real estate pri
 
 Well, according to ChatGPT we should present it as following :)
 
-    We revolutionized the real estate industry with our cutting-edge linear regression model, designed to accurately predict real estate prices in Istanbul. By leveraging the power of web scraping tools such as BeautifulSoup and Selenium, we obtained a comprehensive dataset from adverts on EmlakJet to fuel our predictive capabilities. Invest in the future of real estate with our innovative solution.
+  > We revolutionized the real estate industry with our cutting-edge linear regression model, designed to accurately predict real estate prices in Istanbul. By leveraging the power of web scraping tools such as BeautifulSoup and Selenium, we obtained a comprehensive dataset from adverts on EmlakJet to fuel our predictive capabilities. Invest in the future of real estate with our innovative solution.
 
 ## Table of Contents 
 
